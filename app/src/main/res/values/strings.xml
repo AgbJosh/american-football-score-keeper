@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">American Football</string>
+    <string name="safety">SAFETY</string>
+    <string name="field_goal">FIELD GOAL</string>
+    <string name="touchdown">TOUCHDOWN</string>
+    <string name="reset_scores">RESET SCORES</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="score">0</string>
+    <string name="score_keeper">SCORE   KEEPER</string>
+    <string name="footnote">*Touchdown = 6points* *Field Goal = 3points* *Safety = 2points*</string>
+</resources>
